@@ -1,0 +1,14 @@
+names:
+- head
+- helmet
+- person
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: hard-hat-sample-2dv9h
+  url: https://universe.roboflow.com/rndmgtu-t3cfs/hard-hat-sample-2dv9h/dataset/2
+  version: 2
+  workspace: rndmgtu-t3cfs
+test: ../test/images
+train: ../train/images
+val: ../valid/images
